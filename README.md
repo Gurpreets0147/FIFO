@@ -1,0 +1,2 @@
+# FIFO
+Example of fifos.
